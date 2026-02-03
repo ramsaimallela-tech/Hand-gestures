@@ -1,0 +1,2 @@
+cd hand_gesture_app
+pip install -r requirements.txt
